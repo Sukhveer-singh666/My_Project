@@ -1,0 +1,12 @@
+{
+  "model_path": "trained_plant_disease_model.keras",
+  "evaluated_at": "2026-11-24 01:42:05",
+  "n_validation_images": 17572,
+  "accuracy": 0.9667,
+  "precision_macro": 0.9681,
+  "recall_macro": 0.9667,
+  "f1_macro": 0.9666,
+  "training_time_seconds": null,
+  "training_time_readable": null,
+  "inference_time_seconds": 108.4
+}
